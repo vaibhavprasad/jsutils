@@ -1,17 +1,11 @@
 # jsutils
-A library to contain various utility methods and provide an abstraction for the user for easy coding 
 
-util functions:
+A library to contain various utility methods and provide an abstraction for the user for easy coding 
+util functions
+
 ----Arrays
 --------sum of elements (if numerical)
 --------concat elements (if character/string)
---------
---------
---------
---------
---------
---------
-
 ----Strings
 
 ----DateTime
