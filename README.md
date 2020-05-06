@@ -1,17 +1,11 @@
 # jsutils
 
-A library to contain various utility methods and provide an abstraction for the user for easy coding 
-util functions
+A library to contain utilities not either not provided natively by javascript or a better version of the one natively available.
 
-----Arrays
---------sum of elements (if numerical)
---------concat elements (if character/string)
-----Strings
+Sub-sections: 
+	1. Object Utilities
+	2. Array Utilities
+	3. String Utilities
+	4. Data Structures
+	5. Algorithms ( only those not covered in the sections above )
 
-----DateTime
-
-----DOM
-
-References:-
-https://egghead.io/courses/how-to-write-an-open-source-javascript-library
-https://code.tutsplus.com/tutorials/build-your-first-javascript-library--net-26796
